@@ -1,0 +1,19 @@
+
+input .txt{
+    display: block;
+
+}
+
+#form .btn{
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 3px;
+}
+
+.formulario{
+    text-align: center;
+    width: 300px;
+    background-color: cornflowerblue;
+    padding: 10px;
+    border-radius: 3px;
+}
